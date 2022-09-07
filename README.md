@@ -1,10 +1,7 @@
-# All about bug bounty
+# Allbounty
 These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
 
-![](https://img.shields.io/github/issues/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/forks/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/stars/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/last-commit/daffainfo/AllAboutBugBounty)
+
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Arbitrary%20File%20Upload.md)
@@ -65,9 +62,3 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Google Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Reconnaissance/Google%20Dorks.md)
 - [Shodan Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Reconnaissance/Shodan%20Dorks.md)
 
-## To-Do-List
-- [ ] Tidy up the reconnaisance folder
-- [ ] Seperate the bypass from some vulnerability readme
-- [ ] Writes multiple payload bypasses for each vulnerability
-  - [ ] Payload XSS for each WAF (Cloudflare, Cloudfront, AWS, etc)
-  - [ ] Payload SQL injection for each WAF (Cloudflare, Cloudfront)
